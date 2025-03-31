@@ -1,0 +1,684 @@
+Category,ScientificName
+0,Miconia approximata Gamba & Almeda
+1,Miconia ibaguensis (Bonpl.) Triana
+2,Leandra nianga (DC.) Cogn.
+3,Tibouchina semidecandra Cogn.
+4,Miconia racemosa (Aubl.) DC.
+5,Comolia lythrarioides Naudin
+6,Mouriri myrtilloides (Sw.) Poir.
+7,Miconia corymbiformis Cogn.
+8,Macairea parvifolia Benth.
+9,Brachyotum strigosum (L.f.) Triana
+10,Clidemia bullosa DC.
+11,Mouriri sagotiana Triana
+12,Blakea henripittieri (Cogn.) Penneys & Almeda
+13,Clidemia debilis Crueg.
+14,Comolia veronicaefolia Benth.
+15,Centradenia inaequilateralis (Schltdl. & Cham.) G.Don
+16,Miconia impetiolaris (Sw.) D.Don ex DC.
+17,Graffenrieda harlingii Wurdack
+18,Tibouchina ciliaris (Vent.) Cogn.
+19,Salpinga secunda Schrank & Mart. ex DC.
+20,Tibouchina fothergillae (DC.) Cogn.
+21,Miconia donaeana Naudin
+22,Tococa carolensis Gleason
+23,Henriettea sylvestris (Gleason) J.F.Macbr.
+24,Mouriri nigra (DC.) Morley
+25,Ossaea cucullata Gleason
+26,Mouriri francavillana Cogn.
+27,Tococa erythrophylla (Ule) Wurdack
+28,Miconia compressa Naudin
+29,Marcetia ericoides (Spreng.) Cogn.
+30,Tococa oligantha Gleason
+31,Conostegia cuatrecasii Gleason
+32,Clidemia ombrophila Gleason
+33,Miconia lateriflora Cogn.
+34,Miconia holosericea (L.) DC.
+35,Tetrazygia fadyenii Hook.
+36,Tetrazygia angustifolia (Sw.) DC.
+37,Monochaetum deppeanum (Schltdl. & Cham.) Naudin
+38,Miconia calvescens DC.
+39,Leandra clidemioides (Naudin) Wurdack
+40,Leandra longicoma Cogn.
+41,Leandra carassana (DC.) Cogn.
+42,Trembleya laniflora Cogn.
+43,Tibouchina heteromalla (D.Don) Cogn.
+44,Leandra subseriata (Naudin) Cogn.
+45,Mouriri myrtifolia Spruce ex Triana
+46,Axinaea macrophylla (Naudin) Triana
+47,Ossaea pauciflora (Naudin) Urb.
+48,Aciotis caulialata (Ruiz & Pav.) Triana
+49,Clidemia tepuiensis Wurdack
+50,Aciotis circaeifolia (Bonpl.) Triana
+51,Miconia gracilis Triana
+52,Miconia ciliata (Rich.) DC.
+53,Graffenrieda limbata Triana
+54,Leandra rhamnifolia (Naudin) Cogn.
+55,Tibouchina herbacea (DC.) Cogn.
+56,Miconia cannabina Markgr.
+57,Miconia salicifolia (Bonpl. ex Naudin) Naudin
+58,Miconia argyrophylla DC.
+59,Comolia coriacea Gleason
+60,Pachyloma huberioides (Naudin) Triana
+61,Blakea portentosa Wurdack
+62,Blakea gracilis Hemsl.
+63,Clidemia petiolaris (Schltdl. & Cham.) Triana
+64,Blakea repens Ruiz & Pav.
+65,Miconia pepericarpa DC.
+66,Miconia petropolitana Cogn.
+67,Mouriri crassifolia Sagot
+68,Tibouchina arborea (Gardner) Cogn.
+69,Tibouchina bicolor (Naudin) Cogn.
+70,Miconia stephananthera Ule
+71,Tococa stephanotricha Naudin
+72,Aciotis polystachya (Bonpl.) Triana
+73,Clidemia epiphytica (Triana) Cogn.
+74,Miconia cuspidata Naudin
+75,Lavoisiera imbricata DC.
+76,Clidemia ciliata Pav. ex D.Don
+77,Heterocentron subtriplinervium (Link & Otto) A.Braun & Bouchn++
+78,Miconia lamprophylla Triana
+79,Henriettea stellaris O.Berg ex Triana
+80,Desmoscelis villosa (Aubl.) Naudin
+81,Tibouchina fissinervia (DC.) Cogn.
+82,Leandra hirta Raddi
+83,Conostegia oerstediana O.Berg ex Triana
+84,Tetrazygia bicolor (Mill.) Cogn.
+85,Miconia heliotropoides Triana
+86,Tococa macrosperma Mart.
+87,Miconia paleacea Cogn.
+88,Conostegia speciosa Naudin
+89,Comolia ovalifolia (DC.) Triana
+90,Tococa bullifera Mart. & Schrank ex DC.
+91,Meriania tomentosa (Cogn.) Wurdack
+92,Leandra micropetala (Naudin) Cogn.
+93,Miconia tristis Spring
+94,Leandra mexicana (Naudin) Cogn.
+95,Miconia decurrens Cogn.
+96,Noterophila limnobios (DC.) Mart.
+97,Marcetia taxifolia (A.St.-Hil.) DC.
+98,Miconia tuberculata (Naudin) Triana
+99,Leandra salicina (Ser. ex DC.) Cogn.
+100,Blakea multiflora Don
+101,Tibouchina laxa (Desr.) Cogn.
+102,Miconia quinquenervia (Mill.) Gamba & Almeda
+103,Henriettea martiusii (DC.) Naudin
+104,Tococa aristata Benth.
+105,Miconia chrysophylla (Rich.) Urb.
+106,Clidemia septuplinervia Cogn.
+107,Opisthocentra clidemioides Hook.f.
+108,Miconia pyrifolia Naudin
+109,Tateanthus duidae Gleason
+110,Miconia crocea (Desr.) Naudin
+111,Bellucia arborescens (Aubl.) Baill.
+112,Mouriri collocarpa Ducke
+113,Rhexia mariana var. purpurea Michx.
+114,Leandra xanthocoma (Naudin) Cogn.
+115,Henriettea patrisiana DC.
+116,Graffenrieda rupestris Ducke
+117,Tibouchina grossa (L.f.) Cogn.
+118,Tetrazygia discolor (L.) DC.
+119,Mouriri myrtilloides subsp. parvifolia (Benth.) Morley
+120,Clidemia octona subsp. guayanensis Wurdack
+121,Tibouchina aegopogon (Naudin) Cogn.
+122,Leandra melanodesma (Naudin) Cogn.
+123,Miconia desmantha Benth.
+124,Leandra francavillana Cogn.
+125,Bucquetia glutinosa (L.f.) DC.
+126,Conostegia icosandra (Sw. ex Wikstr.) Urb.
+127,Tibouchina barbigera (Naudin) Baill.
+128,Tibouchina longifolia (Vahl) Baill.
+129,Mecranium latifolium (Cogn.) Skean
+130,Clidemia dimorphica J.F.Macbr.
+131,Clidemia cymosa (Schrad. & J.C.Wendl.) Alain
+132,Miconia ligustrina (Sm.) Triana
+133,Leandra sulfurea (Naudin) Cogn.
+134,Ossaea microphylla (Sw.) C.Wright
+135,Siphanthera hostmannii Cogn.
+136,Miconia brevipes Benth.
+137,Miconia loreyoides Triana
+138,Miconia nutans Donn.Sm.
+139,Chaetolepis microphylla (Bonpl.) Miguel
+140,Miconia pyramidalis (Desr.) DC.
+141,Axinaea costaricensis Cogn.
+142,Blakea trinervia L.
+143,Miconia resima Naudin
+144,Blakea sawadae J.F.Macbr.
+145,Centradenia grandifolia (Schltdl.) Endl. ex Walp.
+146,Acisanthera quadrata Pers.
+147,Tibouchina trichopoda (DC.) Baill.
+148,Rhynchanthera mexicana DC.
+149,Miconia guatemalensis Cogn.
+150,Huberia ovalifolia DC.
+151,Leandra melastomoides Raddi
+152,Miconia poeppigii Triana
+153,Tibouchina lepidota (Bonpl.) Baill.
+154,Leandra dasytricha (A.Gray) Cogn.
+155,Arthrostemma parvifolium Cogn.
+156,Bellucia spruceana (Benth. ex Triana) J.F.Macbr.
+157,Miconia spennerostachya Naudin
+158,Miconia hypoleuca (Benth.) Triana
+159,Miconia virescens (Vahl) Triana
+160,Tibouchina striphnocalyx (DC.) Gleason
+161,Miconia thomasiana DC.
+162,Comolia vernicosa (Benth.) Triana
+163,Leandra aurea (Cham.) Cogn.
+164,Tibouchina alpestris Cogn.
+165,"Henriettea ovata (Cogn.) Penneys, Michelang., Judd & Almeda"
+166,Tococa guianensis Aubl.
+167,Axinaea merianiae (DC.) Triana
+168,Miconia bullata (Turcz.) Triana
+169,Miconia carassana Cogn.
+170,Mouriri elliptica Mart.
+171,Miconia ferruginea (Desr.) DC.
+172,"Pleiochiton blepharodes (DC.) Reginato, R.Goldenb. & Baumgratz"
+173,Tibouchina sellowiana (Cham.) Cogn.
+174,Ossaea congestiflora (Naudin) Cogn.
+175,Leandra krugii (Cogn.) Judd & Skean
+176,Miconia meridensis Triana
+177,Mecranium virgatum (Sw.) Triana
+178,Leandra hirtella Cogn.
+179,Miconia sanguinea (D.Don) Triana
+180,Miconia navioensis Wurdack
+181,Miconia schlechtendalii Cogn.
+182,Clidemia hirta var. elegans (Aubl.) Griseb.
+183,Ernestia tenella (Bonpl.) DC.
+184,Chaetostoma pungens DC.
+185,Tibouchina paratropica (Griseb.) Cogn.
+186,Clidemia obliqua (Griseb.) Cogn.
+187,Miconia tetrandra (Sw.) D.Don
+188,Henriettea fascicularis (Sw.) M.Gn++mez
+189,Miconia irwinii Wurdack
+190,Rhynchanthera grandiflora (Aubl.) DC.
+191,Miconia albertobrenesii Gamba & Almeda
+192,Miconia abbreviata Markgr.
+193,Monochaetum bonplandii (Kunth) Naudin
+194,Leandra australis (Cham.) Cogn.
+195,Clidemia dentata Pav. ex D.Don
+196,Miconia multiplinervia Cogn.
+197,Bellucia grossularioides (L.) Triana
+198,Siphanthera cordifolia (Benth.) Gleason
+199,Leandra acutiflora (Naudin) Cogn.
+200,Aciotis indecora (Bonpl.) Triana
+201,Miconia solearis (Naudin) Gamba & Almeda
+202,Leandra solenifera Cogn.
+203,Miconia reducens Triana
+204,Conostegia setosa Triana
+205,Leandra foveolata Cogn.
+206,Leandra rufescens (DC.) Cogn.
+207,Rhexia interior Pennell
+208,Nepsera aquatica (Aubl.) Naudin
+209,Chaetostoma selagineum (Naudin) Koschnitzke & A.B.Martins
+210,Miconia stelligera Cogn.
+211,Miconia pedicellata Cogn.
+212,Miconia ferruginata DC.
+213,Meriania sclerophylla (Naudin) Triana
+214,Miconia boliviensis Cogn.
+215,Comolia sertularia (DC.) Triana
+216,Miconia sellowiana Naudin
+217,Miconia lutescens (Bonpl.) DC.
+218,Leandra glandulifera (Triana) Cogn.
+219,Henriettea ramiflora (Sw.) DC.
+220,Miconia oinochrophylla Donn.Sm.
+221,Miconia diaphanea Gleason
+222,Miconia barbeyana Cogn.
+223,Conostegia monteleagreana Cogn.
+224,Monolena primuliflora Hook.f.
+225,Miconia reitziana (Cogn. & Gleason) Gamba & Almeda
+226,Clidemia japurensis DC.
+227,Rhexia alifanus Walter
+228,Miconia livida Triana
+229,Microlicia cordata (Spreng.) Cham.
+230,Miconia rimachii Wurdack
+231,Adelobotrys adscendens (Sw.) Triana
+232,Leandra amplexicaulis DC.
+233,Monochaetum myrtoideum (Bonpl.) Naudin
+234,Miconia chionophila Naudin
+235,Monochaetum vulcanicum Cogn.
+236,Mecranium ovatum Cogn.
+237,Miconia tinifolia Naudin
+238,Miconia ceramicarpa (DC.) Cogn.
+239,Aciotis annua (Mart. ex DC.) Triana
+240,Miconia macrothyrsa Benth.
+241,Miconia macrodon (Naudin) Wurdack
+242,Tibouchina gardneriana (Triana) Cogn.
+243,Clidemia heterophylla (Desr.) Gleason
+244,Mouriri vernicosa Naudin
+245,Miconia marginata Triana
+246,Graffenrieda cucullata (Triana) L.O.Williams
+247,Miconia hyemalis A.St.-Hil. & Naudin
+248,Macrocentrum fasciculatum (DC.) Triana
+249,Conostegia lasiopoda Benth.
+250,Miconia fasciculata Gardner
+251,Chaetolepis lindeniana (Naudin) Triana
+252,Adelobotrys permixta Wurdack
+253,Blakea maurofernandeziana (Cogn.) Penneys & Almeda
+254,Miconia collatata Wurdack
+255,Ossaea boliviensis (Cogn.) Gleason
+256,Miconia trinervia (Sw.) D.Don ex Loudon
+257,Tococa acuminata Benth.
+258,Microlicia benthamiana Triana ex Cogn.
+259,Microlicia isophylla DC.
+260,Cambessedesia fasciculata (Spreng.) K.Fidanza & A.B.Martins
+261,Miconia benthamiana Triana
+262,Miconia spinulosa Naudin
+263,Miconia asperrima Triana
+264,Miconia aplostachya (Bonpl.) DC.
+265,Clidemia minutiflora (Triana) Cogn.
+266,Aciotis acuminifolia (Mart. ex DC.) Triana
+267,Miconia theizans (Bonpl.) Cogn.
+268,Siphanthera paludosa (DC.) Cogn.
+269,Clidemia sprucei Gleason
+270,Miconia variabilis Gamba & Almeda
+271,Mouriri exilis Gleason
+272,Tococa macrophysca Spruce ex Triana
+273,Monochaetum floribundum (Schltdl.) Naudin
+274,Blakea tuberculata Donn.Sm.
+275,Monolena primulaeflora Hook.f.
+276,Rhexia cubensis Griseb.
+277,Graffenrieda miconioides Naudin
+278,Monochaetum humboldtianum (Kunth & Bouchn++) Kunth
+279,Miconia rufibarbis (Triana) Gamba & Almeda
+280,Meriania urceolata Triana
+281,Miconia staminea (Desr.) DC.
+282,Clidemia pustulata DC.
+283,Miconia myriantha Benth.
+284,Clidemia capitata Benth.
+285,Miconia polygama Cogn.
+286,Miconia tiliifolia Naudin
+287,Miconia elata (Sw.) DC.
+288,Miconia hirtella Cogn.
+289,Sandemania hoehnei (Cogn.) Wurdack
+290,Monochaetum calcaratum (DC.) Triana
+291,Henriettea squamulosa (Cogn.) Judd
+292,Blakea parasitica D.Don
+293,Ossaea capillaris (Don) Cogn.
+294,Brachyotum naudinii Triana
+295,Miconia rugosa Triana
+296,Pterogastra divaricata (Bonpl.) Naudin
+297,Tibouchina moritziana Cogn.
+298,Miconia smaragdina Naudin
+299,Miconia lepidota DC.
+300,Leandra agrestis (Aubl.) Raddi
+301,Centronia laurifolia D.Don
+302,Clidemia hirta var. tiliaefolia (DC.) J.F.Macbr.
+303,Brachyotum lindenii Cogn.
+304,Leandra purpurascens (DC.) Cogn.
+305,Trembleya parviflora (D.Don) Cogn.
+306,Henriettea seemannii (Naudin) L.O.Williams
+307,Centradenia floribunda Planch.
+308,Miconia ruficalyx Gleason
+309,Cambessedesia corymbosa Mart. & Schrank ex DC.
+310,Macrocentrum repens (Gleason) Wurdack
+311,Tibouchina candolleana (DC.) Cogn.
+312,Miconia striata (Vahl) Cogn.
+313,"Henriettea caudata (Gleason) Penneys, Michelang., Judd & Almeda"
+314,Brachyotum jamesonii Triana
+315,Miconia serrulata (DC.) Naudin
+316,Miconia theaezans (Bonpl.) Cogn.
+317,Miconia lasseri Gleason
+318,Rhexia lutea Walter
+319,Macrocentrum droseroides Triana
+320,Huberia semiserrata DC.
+321,"Bellucia ovata (O.Berg ex Triana) Penneys, Michelang., Judd & Almeda"
+322,Miconia ioneura Griseb.
+323,Miconia molybdea Naudin
+324,Mecranium acuminatum (DC.) Skean
+325,Brachyotum ledifolium (Desr.) Triana
+326,Tococa quadrialata (Naudin) J.F.Macbr.
+327,Miconia punctata (Desr.) D.Don ex DC.
+328,Miconia lacera (Bonpl.) Naudin
+329,Clidemia capitellata (Bonpl.) D.Don
+330,Miconia alata (Aubl.) DC.
+331,Charianthus corymbosus (Rich.) Cogn.
+332,Mecranium puberulum Cogn.
+333,Conostegia micrantha Standl.
+334,Henriettea multiflora Naudin
+335,Miconia lauriformis Naudin
+336,Tibouchina pulchra (Cham.) Cogn.
+337,Miconia aeruginosa Naudin
+338,Aciotis ornata (Miq.) Gleason
+339,Tetrazygia crotonifolia (Desr.) DC.
+340,Mouriri pusa Gardner
+341,Miconia radula Cogn.
+342,Tetrazygia elaegnoides (Sw.) DC.
+343,Henriettea granulata O.Berg ex Triana
+344,Miconia caudata (Bonpl.) DC.
+345,Mouriri acutiflora Naudin
+346,Miconia plukenetii Naudin
+347,Leandra multiplinervis (Naudin) Cogn.
+348,Bellucia dichotoma Cogn.
+349,Miconia ruizii Naudin
+350,Miconia budlejoides Triana
+351,Miconia ramboi Brade
+352,Blakea grandiflora Hemsl.
+353,Henriettea verrucosa (Triana) J.F.Macbr.
+354,Clidemia ciliata var. elata (Pittier) L.Uribe
+355,Miconia bubalina (D.Don) Naudin
+356,Miconia superba Ule
+357,Tibouchina spruceana Cogn.
+358,Rhexia ventricosa Fernald & Griscom
+359,Miconia stipularis Naudin
+360,Graffenrieda weddellii Naudin
+361,Meriania involucrata (Desv.) Naudin
+362,Miconia aspergillaris (Bonpl.) Naudin
+363,Bellucia mespiloides (Miq.) J.F.Macbr.
+364,Henriettea spruceana Cogn.
+365,Miconia tomentosa (Rich.) D.Don ex DC.
+366,Miconia versicolor Naudin
+367,Miconia hondurensis Donn.Sm.
+368,Aciotis rubricaulis (Mart. ex DC.) Triana
+369,Microlicia viminalis (Mart.) Triana
+370,Miconia ceramicarpa var. candolleana Cogn.
+371,Miconia acutifolia Ule
+372,Clidemia urceolata DC.
+373,Tibouchina fraterna N.E.Br.
+374,Graffenrieda latifolia (Naudin) Triana
+375,Miconia lehmannii Cogn.
+376,Miconia globuliflora (Rich.) Cogn.
+377,Phainantha laxiflora (Triana) Gleason
+378,Miconia ulmarioides Naudin
+379,Conostegia rufescens Naudin
+380,Miconia theaezans subsp. flavescens Cogn.
+381,Conostegia polyandra Benth.
+382,Miconia rubiginosa (Bonpl.) DC.
+383,Miconia fallax DC.
+384,Appendicularia thymifolia (Bonpl.) DC.
+385,Miconia splendens (Sw.) Griseb.
+386,Rhynchanthera cordata DC.
+387,Clidemia laevifolia Gleason
+388,Miconia minutiflora (Bonpl.) DC.
+389,Mouriri huberi Cogn.
+390,Tococa formicaria Mart. ex DC.
+391,Miconia aurea (D.Don) Naudin
+392,Miconia goniostigma Triana
+393,Macairea lasiophylla (Benth.) Wurdack
+394,Conostegia subcrustulata (Beurl.) Triana
+395,Ossaea angustifolia (DC.) Triana
+396,Miconia lanata (DC.) Triana
+397,Pilocosta nana (Standl.) Almeda & Whiffin
+398,Monochaetum tenellum Naudin
+399,Tibouchina aspera Aubl.
+400,Miconia amazonica Triana
+401,Tococa caquetana Sprague
+402,Miconia biappendiculata (Naudin) L.Uribe
+403,Mecranium integrifolium subsp. alainii Skean
+404,Miconia chamissois Naudin
+405,Leandra caquetana Sprague
+406,Miconia aliquantula Wurdack
+407,Comolia villosa (Aubl.) Triana
+408,Tibouchina cubense (A.Rich.) M.Gn++mez
+409,Miconia longispicata Triana
+410,Miconia biglandulosa Gleason
+411,Leandra erostrata (DC.) Cogn.
+412,Miconia rufescens (Aubl.) DC.
+413,Miconia melanotricha (Triana) Gleason
+414,Microlicia graveolens DC.
+415,Meriania speciosa (Bonpl.) Naudin
+416,Miconia tonduzii Cogn.
+417,Mecranium multiflorum (Desr.) Triana
+418,Graffenrieda fruticosa Wurdack
+419,Miconia denticulata Naudin
+420,Miconia quadrangularis (Sw.) Naudin
+421,Miconia nervosa (Sm.) Triana
+422,Miconia selleana Urb. & Ekman
+423,Macairea thyrsiflora DC.
+424,Conostegia volcanalis Standl. & Steyerm.
+425,Blakea anomala Donn.Sm.
+426,Blakea schlimii (Naudin) Triana
+427,Tococa spadiciflora Triana
+428,Leandra granatensis Gleason
+429,Clidemia octona (Bonpl.) L.O.Williams
+430,Macrocentrum cristatum (DC.) Triana
+431,Rhexia aristosa Britton
+432,Miconia baracoensis Urb.
+433,Miconia hyperprasina Naudin
+434,Rhynchanthera novemnervia DC.
+435,Rhynchanthera serrulata (Rich.) DC.
+436,Miconia lasiocalyx Cogn.
+437,Miconia amoena Triana
+438,Cambessedesia hilariana (Kunth) DC.
+439,Miconia dispar Benth.
+440,Miconia neomicrantha Judd & Skean
+441,Maieta guianensis Aubl.
+442,Conostegia bracteata Triana
+443,Miconia lourteigiana Wurdack
+444,Microlicia fulva (Spreng.) Cham.
+445,Bellucia umbellata Gleason
+446,Brachyotum quinquenerve (Ruiz & Pav.) Triana
+447,Rhexia nuttallii C.W.James
+448,Miconia phaeophylla Triana
+449,Miconia regelii Cogn.
+450,Clidemia juruensis (Pilg.) Gleason
+451,Miconia bracteolata (Bonpl.) DC.
+452,Miconia papillosa (Desr.) Naudin
+453,Tibouchina bipenicillata (Naudin) Cogn.
+454,Meriania macrophylla (Benth.) Triana
+455,Rhexia mariana L. var. mariana
+456,Triolena hirsuta (Benth.) Triana
+457,Miconia cladonia Gleason
+458,Graffenrieda intermedia Triana
+459,Miconia pusilliflora (DC.) Naudin
+460,Miconia erioclada Triana
+461,Macairea rigida Benth.
+462,Miconia rubens (Sw.) Naudin
+463,Miconia simplex Triana
+464,Miconia tillettii Wurdack
+465,Leandra grandifolia Cogn.
+466,Tibouchina urvilleana Cogn.
+467,Tibouchina mollis (Bonpl.) Cogn.
+468,Blakea quadrangularis Triana
+469,Miconia sintenisii Cogn.
+470,Miconia chartacea Triana
+471,Miconia radulaefolia (Benth.) Naudin
+472,Macrocentrum vestitum Sandwith
+473,Ossaea marginata (Desr.) Triana
+474,Tibouchina granulosa (Desr.) Cogn.
+475,Miconia tetrasperma Gleason
+476,Tetrazygia urbani Cogn.
+477,Leandra divaricata (Naudin) Cogn.
+478,Adelobotrys monticola Gleason
+479,Clidemia monantha L.O.Williams
+480,Miconia melinonis Naudin
+481,Blakea subconnata Berg
+482,Clidemia allardii Wurdack
+483,Miconia furfuracea (Vahl) Griseb.
+484,Rhexia nashii Small
+485,Miconia subcompressa Urb.
+486,Clidemia sericea D.Don
+487,Clidemia umbrosa (Sw.) Cogn.
+488,Leandra laevigata (Triana) Cogn.
+489,Miconia trimera Wurdack
+490,Miconia calycina Cogn.
+491,Miconia ampla Triana
+492,Miconia elaeoides Naudin
+493,Miconia lonchophylla Naudin
+494,Pterolepis trichotoma (Rottb.) Cogn.
+495,Clidemia rubra (Aubl.) Mart.
+496,Macairea stylosa Triana
+497,Tococa rotundifolia (Triana) Wurdack
+498,Miconia laxivenula (Wurdack) Gamba & Almeda
+499,Leandra candelabrum (J.F.Macbr.) Wurdack
+500,Miconia ternatifolia Triana
+501,Miconia latifolia (D.Don) Naudin
+502,Clidemia discolor (Triana) Cogn.
+503,Monochaetum meridense Naudin
+504,Aciotis purpurascens (Aubl.) Triana
+505,Miconia eugenioides Triana
+506,Henriettea tuberculosa (Donn.Sm.) L.O.Williams
+507,Miconia argentea (Sw.) DC.
+508,Miconia tetrastoma Naudin
+509,Trembleya phlogiformis DC.
+510,Mecranium integrifolium (Naudin) Triana subsp. integrifolium
+511,Tibouchina hospita (DC.) Cogn.
+512,Maieta poeppigii Mart. ex Cogn.
+513,Meriania hexamera Sprague
+514,Tibouchina stenocarpa (DC.) Cogn.
+515,Clidemia hirta (L.) D.Don
+516,Miconia samanensis Urb.
+517,Conostegia montana (Sw.) D.Don ex DC.
+518,Clidemia novemnervia (DC.) Triana
+519,Miconia dolichorrhyncha Naudin
+520,Rhexia mariana L.
+521,Macairea pachyphylla Benth.
+522,Tibouchina clavata (Pers.) Wurdack
+523,Clidemia conglomerata DC.
+524,Miconia multispicata Naudin
+525,Miconia multiflora Cogn. ex Britton
+526,Miconia traillii Cogn.
+527,Miconia floribunda (Bonpl.) DC.
+528,Miconia latecrenata (DC.) Naudin
+529,Arthrostemma ciliatum Pav. ex D.Don
+530,Miconia stenostachya DC.
+531,Miconia krugii Cogn.
+532,Clidemia strigillosa (Sw.) DC.
+533,"Bellucia egensis (DC.) Penneys, Michelang., Judd & Almeda"
+534,Miconia obscura (Bonpl.) Naudin
+535,Miconia prasina (Sw.) DC.
+536,Rhynchanthera dichotoma (Desr.) DC.
+537,Miconia dichrophylla J.F.Macbr.
+538,Tibouchina martialis (Cham.) Cogn.
+539,Tibouchina multiflora (Gardner) Cogn.
+540,Miconia triplinervis Ruiz & Pav.
+541,Brachyotum grisebachii Cogn.
+542,Blakea guatemalensis Donn.Sm.
+543,Charianthus alpinus (Sw.) R.A.Howard
+544,Miconia cubatanensis Hoehne
+545,Miconia eriocalyx Cogn.
+546,Miconia egensis Cogn.
+547,Purpurella grossa Triana
+548,Miconia ligustroides (DC.) Naudin
+549,Microlicia fasciculata Mart. ex Naudin
+550,Henriettea maroniensis Sagot
+551,Conostegia xalapensis (Bonpl.) D.Don ex DC.
+552,Miconia aggregata Gleason
+553,Tibouchina gracilis (Bonpl.) Cogn.
+554,Mouriri nervosa Pilg.
+555,Bellucia pentamera Naudin
+556,Leandra crenata (Pav. ex D.Don) Cogn.
+557,Clidemia inobsepta Wurdack
+558,Miconia affinis DC.
+559,Tococa caudata Markgr.
+560,Clidemia biserrata DC.
+561,Miconia pubipetala Miq.
+562,Miconia cinnamomifolia (DC.) Naudin
+563,Miconia bracteata (DC.) Triana
+564,Miconia dorsiloba Gleason
+565,Monochaetum lineatum (D.Don) Naudin
+566,Leandra variabilis Raddi
+567,Clidemia sessiliflora (Naudin) Cogn.
+568,Leandra sericea DC.
+569,Henriettea succosa (Aubl.) DC.
+570,Miconia serialis DC.
+571,Brachyotum confertum (Bonpl.) Triana
+572,Tibouchina scabriuscula (Schltdl.) Cogn.
+573,Clidemia erythropogon DC.
+574,Tibouchina frigidula (DC.) Cogn.
+575,Ossaea amygdaloides (DC.) Triana
+576,Leandra lacunosa Cogn.
+577,Meriania longifolia (Naudin) Cogn.
+578,Leandra aristigera (Naudin) Cogn.
+579,Leandra nervosa (Naudin) Cogn.
+580,Miconia alborufescens Naudin
+581,Mouriri helleri Britton
+582,Tetrazygia longicollis Urb. & Cogn.
+583,Meriania brachycera (Naudin) Humberto Mend. & Fern.Alonso
+584,Comolia montana Gleason
+585,Mouriri apiranga Spruce ex Triana
+586,Miconia campestris (Benth.) Triana
+587,Blakea durandiana Cogn. ex T.Durand
+588,Miconia foveolata Cogn.
+589,Miconia duckei Cogn.
+590,Miconia delicatula A.Rich.
+591,Miconia paniculata (DC.) Naudin
+592,Miconia glaberrima (Schltdl.) Naudin
+593,Ernestia glandulosa Gleason
+594,Brachyotum rostratum (Naudin) Triana
+595,Miconia barbinervis (Benth.) Triana
+596,Mouriri guianensis Aubl.
+597,Miconia aureoides Cogn.
+598,Mouriri brevipes Hook.
+599,Leandra secunda (D.Don) Cogn.
+600,Leandra quinquedentata (DC.) Cogn.
+601,Clidemia capitellata var. dependens (D.Don) J.F.Macbr.
+602,Macairea radula (Bonpl.) DC.
+603,Miconia dolichopoda Naudin
+604,Miconia elegans Cogn.
+605,Miconia gratissima Benth. ex Triana
+606,Miconia costaricensis Cogn.
+607,Rhynchanthera brachyrhyncha Cham.
+608,Clidemia pycnaster Tutin
+609,Pterolepis glomerata (Rottb.) Miq.
+610,Ossaea quadrisulca (Naudin) Wurdack
+611,Tibouchina ochypetala (Ruiz & Pav.) Baill.
+612,Leandra dichotoma (Pav. ex D.Don) Cogn.
+613,Miconia matthaei Naudin
+614,Miconia impetiolaris var. spruceana Cogn.
+615,Miconia neriifolia Triana
+616,Clidemia blepharodes DC.
+617,Conostegia pittieri Cogn.
+618,Leandra regnellii (Triana) Cogn.
+619,Graffenrieda gracilis (Triana) L.O.Williams
+620,Castratella piloselloides (Bonpl.) Naudin
+621,Blakea bracteata Gleason
+622,Clidemia involucrata DC.
+623,Ossaea confertiflora (DC.) Triana
+624,Clidemia setosa (Triana) Gleason
+625,Miconia ledifolia (DC.) Naudin
+626,Miconia fragrans Cogn.
+627,Miconia laevigata (L.) D.Don
+628,Miconia mirabilis (Aubl.) L.O.Williams
+629,Rhexia virginica L.
+630,Rhexia petiolata Walter
+631,Miconia stenobotrys (Rich.) Naudin
+632,Miconia centrodesma Naudin
+633,Miconia squamulosa (Sm.) Triana
+634,Tococa coronata Benth.
+635,Graffenrieda caryophyllea Triana
+636,Blakea quadriflora Gleason
+637,Miconia longifolia (Aubl.) DC.
+638,Meriania leucantha (Sw.) Sw.
+639,Mouriri grandiflora DC.
+640,Tibouchina geitneriana (Schltdl.) Cogn.
+641,Miconia albicans (Sw.) Triana
+642,Miconia elongata Cogn.
+643,Bellucia aequiloba Pilg.
+644,Bellucia acutata Pilg.
+645,Miconia pachyphylla Cogn.
+646,Leandra ionopogon (Mart.) Cogn.
+647,Tibouchina lindeniana Cogn.
+648,Miconia bractiflora Gamba & Almeda
+649,Meriania phlomoides (Triana) Almeda
+650,Conostegia superba Naudin
+651,Clidemia umbellata (Mill.) L.O.Williams
+652,Cambessedesia espora DC.
+653,Leandra reversa (DC.) Cogn.
+654,Schwackaea cupheoides (Benth.) Cogn.
+655,Brachyotum microdon (Naudin) Triana
+656,Tococa nitens (Benth.) Triana
+657,Tococa platyphylla Benth.
+658,Miconia cyanocarpa Naudin
+659,Miconia sclerophylla Triana
+660,Comolia microphylla Benth.
+661,Miconia eriodonta DC.
+662,Miconia burchellii Triana
+663,Microlicia euphorbioides Mart.
+664,Graffenrieda emarginata (Ruiz & Pav.) Triana
+665,Miconia cinerascens Miq.
+666,Miconia mexicana (Bonpl.) Naudin
+667,Blakea rosea (Ruiz & Pav.) D.Don
+668,Acisanthera alsinaefolia (DC.) Triana
+669,Pterolepis repanda (DC.) Triana
+670,Blakea storkii (Standl.) Almeda
+671,Blakea foliacea Gleason
+672,Miconia dodecandra Cogn.
+673,Mouriri duckeana Morley
+674,Acanthella sprucei Hook.f.
+675,Miconia corallina Spring
+676,Miconia argyrophylla subsp. gracilis Wurdack
+677,Miconia asclepiadea Triana
+678,Leandra chaetodon (DC.) Cogn.
+679,Axinaea sclerophylla Triana
+680,Tococa subciliata (DC.) Triana
+681,Miconia phanerostila Pilg.
+682,Siphanthera cordata Pohl ex DC.
